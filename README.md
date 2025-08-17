@@ -43,7 +43,9 @@
 
 ## 🌍 Let’s Connect  
 - 🌐 [Portfolio Website](https://shiburaj.com)  
-- 🐙 [GitHub Profile](https://github.com/shiburaj)  
-- 🏢 [Softon](https://github.com/softon)  
+- 🐙 [GitHub Profile](https://github.com/shiburaj)
+- 📧 **Email:** [shiburaj@eng.rizvi.edu.in](mailto:shiburaj@eng.rizvi.edu.in)  
+- 📱 **Mobile:** [+91 9029326504](tel:+919029326504)   
+
 
 ⭐️ *If you like my work, consider giving a star to my repositories!* ⭐️
